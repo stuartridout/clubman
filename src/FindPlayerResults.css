@@ -1,0 +1,13 @@
+.findPlayerResults__container {
+  margin-top: 20px;
+  background-color: white;
+  width: 400px;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+  padding-top: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}

@@ -1,0 +1,44 @@
+body {
+  height: 100%;
+  background: url("http://www.mkcityfc.co.uk/wp-content/uploads/2021/06/WhatsApp-Image-2021-06-23-at-17.49.55.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
+
+.home__myPlayers {
+  margin-top: 20px;
+  background-color: white;
+  width: 400px;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+  padding-top: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.home__myPlayers > h1 {
+  font-family: "Ubuntu", sans-serif;
+  padding-top: 10px;
+  font-size: x-large;
+}
+
+.home__linkPlayer {
+  margin-top: 20px !important;
+}
+
+.home__myPlayers > button {
+  width: 360px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 40px;
+  margin-top: 10px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-size: medium;
+}

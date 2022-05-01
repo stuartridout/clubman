@@ -1,0 +1,23 @@
+.player__container {
+  width: 340px;
+  background-color: #f5f5f7;
+  padding: 10px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px,
+    rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+
+.player__container > p {
+  margin-left: 20px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.player__name {
+  font-weight: 500;
+}
